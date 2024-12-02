@@ -1,0 +1,4 @@
+smbus
+numpy
+easydict
+dynamixel-sdk
